@@ -1,0 +1,18 @@
+{
+    "sender_mail_id" : "hawktuahandspitonthatthang69@gmail.com",
+    "receiver_mail_ids": [
+
+        "hariesh28606@gmail.com"
+    ],
+
+    "days":[
+
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+    ]
+}
